@@ -12,4 +12,11 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
-### 📧 Contate-me pelo email: guilhermes23.08@gmail.com
+## 🚀 Em Busca de Desafios
+Atualmente à procura de oportunidades para aplicar meus conhecimentos em desenvolvimento Front-end, contribuir para projetos inovadores e continuar aprendendo no processo.
+
+## 💻 Portfolio
+Confira meu [portfolio](link_do_seu_portfolio) para ver alguns dos meus projetos e experiências anteriores.
+
+## 📧 Vamos Conversar!
+Estou aberto a colaborações, oportunidades de trabalho e novos desafios. Contate-me pelo email: guilhermes23.08@gmail.com
